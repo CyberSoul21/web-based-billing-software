@@ -1,0 +1,1 @@
+Nota: antes de hacer la creación de tablas e insersión de datos como se indica en el documento, por favor ejecutar primero  "borrar_actual_tbl_billing_period.sql", ya que se va crear dentro del script "Script_creacion_todas_tablas.sql"

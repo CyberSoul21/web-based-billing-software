@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<toolbar>
+<!--
+<item id="create" type="button" text="Nuevo" title="Crea un nuevo registro" img="drive_user.png" imgdis="drive_user.png"/>
+-->
+<!--
+<item id="delete" type="button" text="Borrar" title="Borra un registro existente" img="bin_closed.png" imgdis="bin_closed.png"/>
+-->
+<!--
+<item id="retrieve" type="button" text="Actualizar" title="Actualiza la grilla" img="database_gear.png" imgdis="database_gear.png"/>
+-->
+<!--<item id="export_pdf" type="button" text="" title="Exportar a PDF" img="reader.gif" imgdis="reader.gif"/>-->
+<item id="export_xls" type="button" text="" title="Exportar a Excel" img="excel.gif" imgdis="excel.gif"/>
+<item id="export_csv" type="button" text="" title="Exportar a CSV" img="csv.gif" imgdis="csv.gif"/>
+<!--
+<item id="add_act" type="button" text="" title="add_act" img="application_form.png" imgdis="application_form.png"/>
+-->
+<!--
+<item id="add_driver" type="button" text="" title="add_driver" img="drive_user.png" imgdis="drive_user.png"/>
+-->
+<item id="add_Contract" type="button" text="Crear Contrato" title="Crear Contrato" img="application_add.png" imgdis="application_add.png"/>
+</toolbar>

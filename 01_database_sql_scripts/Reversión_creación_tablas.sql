@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS owners;
+DROP TABLE IF EXISTS tbl_agreements;
+DROP TABLE IF EXISTS tbl_billing;
+DROP TABLE IF EXISTS tbl_due_date;
+DROP TABLE IF EXISTS tbl_extension;
+DROP TABLE IF EXISTS tbl_purchase_order;
+DROP TABLE IF EXISTS tbl_tariff;
+DROP TABLE IF EXISTS tbl_type_person;
+DROP TABLE IF EXISTS tbl_billing_period;

@@ -1,0 +1,16 @@
+El archivo assets_form_processor solo se le añade código el cual esta comentareado. 
+
+
+
+Toddos los archivos de esta carpeta van en esta ruta
+
+
+/administracion/
+
+
+
+Ejemplo:
+
+/administracion/assets_bill.php
+/administracion/owners.php
+/administracion/agreements.php
